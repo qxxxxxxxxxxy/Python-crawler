@@ -1,2 +1,2 @@
 # python
-python crawler
+python spider
